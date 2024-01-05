@@ -1,3 +1,24 @@
 h3{
     color: red;
 }
+p{
+    padding: 10px;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.div1{
+    background-image: url('../images/Sunflower_from_Silesia2.jpg');
+    background-size: cover;
+    background-position: bottom center;
+    height: 100vh;
+}
+.div1 h2{
+    padding: 10px;
+    background-color: aquamarine;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: 700;
+    color: aliceblue;
+}
